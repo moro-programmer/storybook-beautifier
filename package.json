@@ -1,0 +1,39 @@
+{
+  "name": "storybook-beautifier",
+  "version": "1.0.0",
+  "description": "A React Storybook addon to show additional information (source, propTypes)",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moro-programmer/storybook-beautifier.git"
+  },
+  "keywords": [
+    "storybook",
+    "react"
+  ],
+  "author": "moro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moro-programmer/storybook-beautifier/issues"
+  },
+  "homepage": "https://github.com/moro-programmer/storybook-beautifier#readme",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-element-to-jsx-string": "^3.1.0",
+    "react-highlight": "^0.8.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.10.1",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-1": "^6.5.0",
+    "eslint": "^3.0.1",
+    "eslint-plugin-react": "^5.2.2"
+  }
+}

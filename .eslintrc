@@ -1,0 +1,13 @@
+{
+  "env": {
+    "mocha": true
+  },
+
+  "plugins": [
+    "react"
+  ],
+
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}
